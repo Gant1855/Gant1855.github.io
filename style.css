@@ -4,3 +4,27 @@ h1{
 .blue{
     color:blue;
 }
+
+.red{
+    color:red;
+}
+
+.purple{
+    color:purple;
+}
+
+.alignleft{
+    text-align: left;
+}
+.aligncenter{
+    text-align: center;
+}
+.alignright{
+    text-align: right;
+}
+.blackBackground{
+    background-color: black;
+}
+body{
+    background-color:bisque
+}
